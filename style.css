@@ -28,11 +28,11 @@ a:hover{
 }
 
 /* responsive Navbar */
-@media screen and (max-width: 600px){
-    .nav ul li{
+@media screen and (min-width: 200px) and (max-width: 700px) {
+    .nav ul li {
         display: inline;
         margin: 0 10px;
-        font-size: 17px;
+        font-size: 12px;
     }
 }
 
@@ -117,8 +117,8 @@ a:hover{
     }
 
     .home img {
-        width: 150px;
-        height: 150px;
+        width: 100px;
+        height: 120px;
     }
 
     .home-text {
@@ -126,7 +126,7 @@ a:hover{
     }
 
     .animated-text {
-        font-size: 28px;
+        font-size: 18px;
     }
 }
 
