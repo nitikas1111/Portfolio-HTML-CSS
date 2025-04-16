@@ -110,7 +110,7 @@ a:hover{
 }
 
 /* Responsive Design */
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 200px) and (max-width: 768px) {
     .home {
         flex-direction: column;
         text-align: center;
