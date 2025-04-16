@@ -120,6 +120,7 @@ a:hover{
     .home img {
         width: 90px;
         height: 100px;
+        margin-right: 0px;
     }
 
     .home-text {
