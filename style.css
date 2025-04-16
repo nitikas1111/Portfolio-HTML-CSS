@@ -114,11 +114,12 @@ a:hover{
     .home {
         flex-direction: column;
         text-align: center;
+        padding-top: 50px;
     }
 
     .home img {
-        width: 100px;
-        height: 120px;
+        width: 90px;
+        height: 100px;
     }
 
     .home-text {
