@@ -129,6 +129,9 @@ a:hover{
     .animated-text {
         font-size: 18px;
     }
+    .home p{
+        font-size: 12px;
+    }
 }
 
 /* footer */
