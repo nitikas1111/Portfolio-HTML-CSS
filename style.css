@@ -131,6 +131,7 @@ a:hover{
     }
     .home p{
         font-size: 12px;
+        line-height: 0;
     }
 }
 
