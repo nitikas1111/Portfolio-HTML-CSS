@@ -114,7 +114,6 @@ a:hover{
     .home {
         flex-direction: column;
         text-align: center;
-        padding-top: 200px;
     }
 
     .home img {
